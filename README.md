@@ -2,7 +2,7 @@
 Appling skills to ivestigate revenue and margin.
 
 ## Implemntaion Steps
-Step 1: Data Modeling and EDA.
+### Step 1: Data Modeling and EDA.
 Importing your data into Power BI and creating your data model. Once your data is ready, we will start doing some initial exploratory data analysis.
 
 * create a dedicated date table using DAX
@@ -17,6 +17,24 @@ Importing your data into Power BI and creating your data model. Once your data i
   * ``` Revenues = SUM(Revenue[Sales Amount])```
 
 ![](Images/1.png)
+![](Images/ModelView.png)
+
+### Step 2: Looking at Revenues by Team and Category
+
+![](Images/2.png)
+
+### Step 3: Creating Table to Monitor Revenue and Margin by Supplier and Groups.
+
+![](Images/3.png)
+
+
+# Final Dashboard Layout
+
+![](Images/0.png)
+
+
+
+
 
   
 
