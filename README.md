@@ -17,9 +17,10 @@ Importing your data into Power BI and creating your data model. Once your data i
   * ``` Revenues = SUM(Revenue[Sales Amount])```
 
 ![](Images/1.png)
+
 ![](Images/ModelView.png)
 
-### Step 2: Looking at Revenues by Team and Category
+### Step 2: Investigating Revenues by Team and Category
 
 ![](Images/2.png)
 
