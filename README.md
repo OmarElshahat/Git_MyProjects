@@ -18,7 +18,7 @@ Importing your data into Power BI and creating your data model. Once your data i
 
 ![](Images/1.png)
 
-![](Images/ModelView.png)
+![](Images/4.png)
 
 ### Step 2: Investigating Revenues by Team and Category
 
