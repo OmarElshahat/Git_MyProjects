@@ -16,9 +16,9 @@ Importing your data into Power BI and creating your data model. Once your data i
   * ```Gross Margin % = DIVIDE([Gross Margin],[Revenues]) ```
   * ``` Revenues = SUM(Revenue[Sales Amount])```
 
-![](Images/1.png)
-
 ![](Images/4.png)
+
+![](Images/1.png)
 
 ### Step 2: Investigating Revenues by Team and Category
 
